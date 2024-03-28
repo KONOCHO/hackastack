@@ -8,8 +8,6 @@ A simple web app designed to streamline team formation for hackathons. 🤝
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Badges serve as a quick visual representation to showcase the technologies used in a project, dependencies, or any other project metrics like build passing, version number, etc. They make the information easily accessible at a glance and can make your README look more professional and visually appealing.
-
 ## Interface Guide 🖥️
 
 ### Homepage:
